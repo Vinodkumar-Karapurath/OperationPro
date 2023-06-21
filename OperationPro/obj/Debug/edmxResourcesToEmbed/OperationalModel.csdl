@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OperationProModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TBL_Company">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Company" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TBL_MainMaster" Relationship="Self.FK_TBL_MainMaster_TBL_Company" FromRole="TBL_Company" ToRole="TBL_MainMaster" />
+  </EntityType>
+  <EntityType Name="TBL_Department">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Department" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TBL_MainMaster" Relationship="Self.FK_TBL_MainMaster_TBL_Department" FromRole="TBL_Department" ToRole="TBL_MainMaster" />
+  </EntityType>
+  <EntityType Name="TBL_Document">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Documents" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TBL_PdfFile" Relationship="Self.FK_TBL_PdfFile_TBL_Document" FromRole="TBL_Document" ToRole="TBL_PdfFile" />
+  </EntityType>
+  <EntityType Name="TBL_JOB">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="JobTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TBL_MainMaster" Relationship="Self.FK_TBL_MainMaster_TBL_JOB" FromRole="TBL_JOB" ToRole="TBL_MainMaster" />
+  </EntityType>
+  <EntityType Name="TBL_Location">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Location" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TBL_MainMaster" Relationship="Self.FK_TBL_MainMaster_TBL_Location" FromRole="TBL_Location" ToRole="TBL_MainMaster" />
+  </EntityType>
+  <EntityType Name="TBL_MainMaster">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmpName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="EMPID" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TGID" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="CompanyID" Type="Int32" />
+    <Property Name="JobTitle" Type="Int32" />
+    <Property Name="Depart" Type="Int32" />
+    <Property Name="Location" Type="Int32" />
+    <Property Name="Mobile" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="IqamaID" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="IqamaExpDate" Type="DateTime" Precision="3" />
+    <Property Name="SARID" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="SARExpDate" Type="DateTime" Precision="3" />
+    <Property Name="Passport" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="PassportExpDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="TBL_Company" Relationship="Self.FK_TBL_MainMaster_TBL_Company" FromRole="TBL_MainMaster" ToRole="TBL_Company" />
+    <NavigationProperty Name="TBL_Department" Relationship="Self.FK_TBL_MainMaster_TBL_Department" FromRole="TBL_MainMaster" ToRole="TBL_Department" />
+    <NavigationProperty Name="TBL_JOB" Relationship="Self.FK_TBL_MainMaster_TBL_JOB" FromRole="TBL_MainMaster" ToRole="TBL_JOB" />
+    <NavigationProperty Name="TBL_Location" Relationship="Self.FK_TBL_MainMaster_TBL_Location" FromRole="TBL_MainMaster" ToRole="TBL_Location" />
+    <NavigationProperty Name="TBL_MainMaster1" Relationship="Self.FK_TBL_MainMaster_TBL_MainMaster" FromRole="TBL_MainMaster" ToRole="TBL_MainMaster1" />
+    <NavigationProperty Name="TBL_MainMaster2" Relationship="Self.FK_TBL_MainMaster_TBL_MainMaster" FromRole="TBL_MainMaster1" ToRole="TBL_MainMaster" />
+    <NavigationProperty Name="TBL_PdfFile" Relationship="Self.FK_TBL_PdfFile_TBL_MainMaster" FromRole="TBL_MainMaster" ToRole="TBL_PdfFile" />
+    <NavigationProperty Name="TBL_Vehicle" Relationship="Self.FK_TBL_Vehicle_TBL_MainMaster" FromRole="TBL_MainMaster" ToRole="TBL_Vehicle" />
+    <Property Name="Photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_PdfFile">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DOCID" Type="Int32" />
+    <Property Name="MasterID" Type="Int32" />
+    <Property Name="PDFFile" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="TBL_Document" Relationship="Self.FK_TBL_PdfFile_TBL_Document" FromRole="TBL_PdfFile" ToRole="TBL_Document" />
+    <NavigationProperty Name="TBL_MainMaster" Relationship="Self.FK_TBL_PdfFile_TBL_MainMaster" FromRole="TBL_PdfFile" ToRole="TBL_MainMaster" />
+    <NavigationProperty Name="TBL_PdfFile1" Relationship="Self.FK_TBL_PdfFile_TBL_PdfFile" FromRole="TBL_PdfFile" ToRole="TBL_PdfFile1" />
+    <NavigationProperty Name="TBL_PdfFile2" Relationship="Self.FK_TBL_PdfFile_TBL_PdfFile" FromRole="TBL_PdfFile1" ToRole="TBL_PdfFile" />
+  </EntityType>
+  <EntityType Name="TBL_Type">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TBL_Vehicle" Relationship="Self.FK_TBL_Vehicle_TBL_Type" FromRole="TBL_Type" ToRole="TBL_Vehicle" />
+  </EntityType>
+  <EntityType Name="TBL_UserMaster">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Role" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TBL_Vehicle">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Vehicle" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="VehicleExpDate" Type="DateTime" Precision="3" />
+    <Property Name="InsuranceExpDate" Type="DateTime" Precision="3" />
+    <Property Name="AuthorizationExpDate" Type="DateTime" Precision="3" />
+    <Property Name="Model" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Type" Type="Int32" />
+    <Property Name="plateNo" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="AuthorizationID" Type="Int32" />
+    <NavigationProperty Name="TBL_MainMaster" Relationship="Self.FK_TBL_Vehicle_TBL_MainMaster" FromRole="TBL_Vehicle" ToRole="TBL_MainMaster" />
+    <NavigationProperty Name="TBL_Type" Relationship="Self.FK_TBL_Vehicle_TBL_Type" FromRole="TBL_Vehicle" ToRole="TBL_Type" />
+    <Property Name="PDFFile" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_WarningDays">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IqamaExpWarnDay" Type="Int32" />
+    <Property Name="SarExpWarnDay" Type="Int32" />
+    <Property Name="PassportExpWarnDay" Type="Int32" />
+    <Property Name="VehicleWarnDay" Type="Int32" />
+    <Property Name="InsuranceWarnDay" Type="Int32" />
+    <Property Name="AuthorizationWarnDay" Type="Int32" />
+  </EntityType>
+  <Association Name="FK_TBL_MainMaster_TBL_Company">
+    <End Role="TBL_Company" Type="Self.TBL_Company" Multiplicity="0..1" />
+    <End Role="TBL_MainMaster" Type="Self.TBL_MainMaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_Company">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_MainMaster">
+        <PropertyRef Name="CompanyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_MainMaster_TBL_Department">
+    <End Role="TBL_Department" Type="Self.TBL_Department" Multiplicity="0..1" />
+    <End Role="TBL_MainMaster" Type="Self.TBL_MainMaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_Department">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_MainMaster">
+        <PropertyRef Name="Depart" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_PdfFile_TBL_Document">
+    <End Role="TBL_Document" Type="Self.TBL_Document" Multiplicity="0..1" />
+    <End Role="TBL_PdfFile" Type="Self.TBL_PdfFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_Document">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_PdfFile">
+        <PropertyRef Name="DOCID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_MainMaster_TBL_JOB">
+    <End Role="TBL_JOB" Type="Self.TBL_JOB" Multiplicity="0..1" />
+    <End Role="TBL_MainMaster" Type="Self.TBL_MainMaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_JOB">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_MainMaster">
+        <PropertyRef Name="JobTitle" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_MainMaster_TBL_Location">
+    <End Role="TBL_Location" Type="Self.TBL_Location" Multiplicity="0..1" />
+    <End Role="TBL_MainMaster" Type="Self.TBL_MainMaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_Location">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_MainMaster">
+        <PropertyRef Name="Location" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_MainMaster_TBL_MainMaster">
+    <End Role="TBL_MainMaster" Type="Self.TBL_MainMaster" Multiplicity="1" />
+    <End Role="TBL_MainMaster1" Type="Self.TBL_MainMaster" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_MainMaster">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_MainMaster1">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_PdfFile_TBL_MainMaster">
+    <End Role="TBL_MainMaster" Type="Self.TBL_MainMaster" Multiplicity="0..1" />
+    <End Role="TBL_PdfFile" Type="Self.TBL_PdfFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_MainMaster">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_PdfFile">
+        <PropertyRef Name="MasterID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_Vehicle_TBL_MainMaster">
+    <End Role="TBL_MainMaster" Type="Self.TBL_MainMaster" Multiplicity="0..1" />
+    <End Role="TBL_Vehicle" Type="Self.TBL_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_MainMaster">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_Vehicle">
+        <PropertyRef Name="AuthorizationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_PdfFile_TBL_PdfFile">
+    <End Role="TBL_PdfFile" Type="Self.TBL_PdfFile" Multiplicity="1" />
+    <End Role="TBL_PdfFile1" Type="Self.TBL_PdfFile" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_PdfFile">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_PdfFile1">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_Vehicle_TBL_Type">
+    <End Role="TBL_Type" Type="Self.TBL_Type" Multiplicity="0..1" />
+    <End Role="TBL_Vehicle" Type="Self.TBL_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_Type">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBL_Vehicle">
+        <PropertyRef Name="Type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OperationProEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBL_Company" EntityType="Self.TBL_Company" />
+    <EntitySet Name="TBL_Department" EntityType="Self.TBL_Department" />
+    <EntitySet Name="TBL_Document" EntityType="Self.TBL_Document" />
+    <EntitySet Name="TBL_JOB" EntityType="Self.TBL_JOB" />
+    <EntitySet Name="TBL_Location" EntityType="Self.TBL_Location" />
+    <EntitySet Name="TBL_MainMaster" EntityType="Self.TBL_MainMaster" />
+    <EntitySet Name="TBL_PdfFile" EntityType="Self.TBL_PdfFile" />
+    <EntitySet Name="TBL_Type" EntityType="Self.TBL_Type" />
+    <EntitySet Name="TBL_UserMaster" EntityType="Self.TBL_UserMaster" />
+    <EntitySet Name="TBL_Vehicle" EntityType="Self.TBL_Vehicle" />
+    <EntitySet Name="TBL_WarningDays" EntityType="Self.TBL_WarningDays" />
+    <AssociationSet Name="FK_TBL_MainMaster_TBL_Company" Association="Self.FK_TBL_MainMaster_TBL_Company">
+      <End Role="TBL_Company" EntitySet="TBL_Company" />
+      <End Role="TBL_MainMaster" EntitySet="TBL_MainMaster" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_MainMaster_TBL_Department" Association="Self.FK_TBL_MainMaster_TBL_Department">
+      <End Role="TBL_Department" EntitySet="TBL_Department" />
+      <End Role="TBL_MainMaster" EntitySet="TBL_MainMaster" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_PdfFile_TBL_Document" Association="Self.FK_TBL_PdfFile_TBL_Document">
+      <End Role="TBL_Document" EntitySet="TBL_Document" />
+      <End Role="TBL_PdfFile" EntitySet="TBL_PdfFile" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_MainMaster_TBL_JOB" Association="Self.FK_TBL_MainMaster_TBL_JOB">
+      <End Role="TBL_JOB" EntitySet="TBL_JOB" />
+      <End Role="TBL_MainMaster" EntitySet="TBL_MainMaster" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_MainMaster_TBL_Location" Association="Self.FK_TBL_MainMaster_TBL_Location">
+      <End Role="TBL_Location" EntitySet="TBL_Location" />
+      <End Role="TBL_MainMaster" EntitySet="TBL_MainMaster" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_MainMaster_TBL_MainMaster" Association="Self.FK_TBL_MainMaster_TBL_MainMaster">
+      <End Role="TBL_MainMaster" EntitySet="TBL_MainMaster" />
+      <End Role="TBL_MainMaster1" EntitySet="TBL_MainMaster" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_PdfFile_TBL_MainMaster" Association="Self.FK_TBL_PdfFile_TBL_MainMaster">
+      <End Role="TBL_MainMaster" EntitySet="TBL_MainMaster" />
+      <End Role="TBL_PdfFile" EntitySet="TBL_PdfFile" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_Vehicle_TBL_MainMaster" Association="Self.FK_TBL_Vehicle_TBL_MainMaster">
+      <End Role="TBL_MainMaster" EntitySet="TBL_MainMaster" />
+      <End Role="TBL_Vehicle" EntitySet="TBL_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_PdfFile_TBL_PdfFile" Association="Self.FK_TBL_PdfFile_TBL_PdfFile">
+      <End Role="TBL_PdfFile" EntitySet="TBL_PdfFile" />
+      <End Role="TBL_PdfFile1" EntitySet="TBL_PdfFile" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_Vehicle_TBL_Type" Association="Self.FK_TBL_Vehicle_TBL_Type">
+      <End Role="TBL_Type" EntitySet="TBL_Type" />
+      <End Role="TBL_Vehicle" EntitySet="TBL_Vehicle" />
+    </AssociationSet>
+    <FunctionImport Name="SP_Warning" ReturnType="Collection(OperationProModel.SP_Warning_Result)" />
+    <FunctionImport Name="SP_Warning1" ReturnType="Collection(OperationProModel.SP_Warning1_Result)" />
+  </EntityContainer>
+  <ComplexType Name="SP_Warning_Result">
+    <Property Type="Int32" Name="id" Nullable="true" />
+    <Property Type="String" Name="EMPID" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="EmpName" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="Mobile" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="TypeId" Nullable="true" MaxLength="30" />
+    <Property Type="DateTime" Name="ExpDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="trantypes" Nullable="false" MaxLength="21" />
+  </ComplexType>
+  <ComplexType Name="SP_Warning1_Result">
+    <Property Type="Int32" Name="id" Nullable="true" />
+    <Property Type="String" Name="EMPID" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="EmpName" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="Mobile" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="TypeId" Nullable="true" MaxLength="30" />
+    <Property Type="DateTime" Name="ExpDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="trantypes" Nullable="false" MaxLength="21" />
+    <Property Type="Int32" Name="VehicleID" Nullable="false" />
+  </ComplexType>
+</Schema>

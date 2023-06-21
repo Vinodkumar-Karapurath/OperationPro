@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OperationProModelStoreContainer" CdmEntityContainer="OperationProEntities">
+    <EntitySetMapping Name="TBL_Company">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_Company">
+        <MappingFragment StoreEntitySet="TBL_Company">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_Department">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_Department">
+        <MappingFragment StoreEntitySet="TBL_Department">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_Document">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_Document">
+        <MappingFragment StoreEntitySet="TBL_Document">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Documents" ColumnName="Documents" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_JOB">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_JOB">
+        <MappingFragment StoreEntitySet="TBL_JOB">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="JobTitle" ColumnName="JobTitle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_Location">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_Location">
+        <MappingFragment StoreEntitySet="TBL_Location">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_MainMaster">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_MainMaster">
+        <MappingFragment StoreEntitySet="TBL_MainMaster">
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="EMPID" ColumnName="EMPID" />
+          <ScalarProperty Name="TGID" ColumnName="TGID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="JobTitle" ColumnName="JobTitle" />
+          <ScalarProperty Name="Depart" ColumnName="Depart" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="IqamaID" ColumnName="IqamaID" />
+          <ScalarProperty Name="IqamaExpDate" ColumnName="IqamaExpDate" />
+          <ScalarProperty Name="SARID" ColumnName="SARID" />
+          <ScalarProperty Name="SARExpDate" ColumnName="SARExpDate" />
+          <ScalarProperty Name="Passport" ColumnName="Passport" />
+          <ScalarProperty Name="PassportExpDate" ColumnName="PassportExpDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_PdfFile">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_PdfFile">
+        <MappingFragment StoreEntitySet="TBL_PdfFile">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DOCID" ColumnName="DOCID" />
+          <ScalarProperty Name="MasterID" ColumnName="MasterID" />
+          <ScalarProperty Name="PDFFile" ColumnName="PDFFile" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_Type">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_Type">
+        <MappingFragment StoreEntitySet="TBL_Type">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_UserMaster">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_UserMaster">
+        <MappingFragment StoreEntitySet="TBL_UserMaster">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_Vehicle">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_Vehicle">
+        <MappingFragment StoreEntitySet="TBL_Vehicle">
+          <ScalarProperty Name="PDFFile" ColumnName="PDFFile" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Vehicle" ColumnName="Vehicle" />
+          <ScalarProperty Name="VehicleExpDate" ColumnName="VehicleExpDate" />
+          <ScalarProperty Name="InsuranceExpDate" ColumnName="InsuranceExpDate" />
+          <ScalarProperty Name="AuthorizationExpDate" ColumnName="AuthorizationExpDate" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="plateNo" ColumnName="plateNo" />
+          <ScalarProperty Name="AuthorizationID" ColumnName="AuthorizationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_WarningDays">
+      <EntityTypeMapping TypeName="OperationProModel.TBL_WarningDays">
+        <MappingFragment StoreEntitySet="TBL_WarningDays">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="IqamaExpWarnDay" ColumnName="IqamaExpWarnDay" />
+          <ScalarProperty Name="SarExpWarnDay" ColumnName="SarExpWarnDay" />
+          <ScalarProperty Name="PassportExpWarnDay" ColumnName="PassportExpWarnDay" />
+          <ScalarProperty Name="VehicleWarnDay" ColumnName="VehicleWarnDay" />
+          <ScalarProperty Name="InsuranceWarnDay" ColumnName="InsuranceWarnDay" />
+          <ScalarProperty Name="AuthorizationWarnDay" ColumnName="AuthorizationWarnDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_Warning1" FunctionName="OperationProModel.Store.SP_Warning">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OperationProModel.SP_Warning1_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="EMPID" ColumnName="EMPID" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="TypeId" ColumnName="TypeId" />
+          <ScalarProperty Name="ExpDate" ColumnName="ExpDate" />
+          <ScalarProperty Name="trantypes" ColumnName="trantypes" />
+          <ScalarProperty Name="VehicleID" ColumnName="VehicleID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

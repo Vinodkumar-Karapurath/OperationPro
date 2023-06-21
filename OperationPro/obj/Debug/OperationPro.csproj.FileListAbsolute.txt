@@ -1,0 +1,425 @@
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\OperationPro.exe
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\OperationPro.pdb
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.csprojResolveAssemblyReference.cache
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMain.resources
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.Properties.Resources.resources
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.csproj.GenerateResource.Cache
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.exe.licenses
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.exe
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.pdb
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\OperationPro.exe.config
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\EntityFramework.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\EntityFramework.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.LoginForm.resources
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\onedrive\documents\visual studio 2015\Projects\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMasters.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\OperationPro.exe.config
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.exe
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.pdb
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\OperationPro.exe
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\OperationPro.pdb
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMain.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmCurdMaster.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMasters.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.LoginForm.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.Properties.Resources.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.csproj.GenerateResource.Cache
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.exe.licenses
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmVehicleMaster.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\OperationPro.exe.config
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\OperationPro.exe
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\OperationPro.pdb
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMain.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmCurdMaster.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMasters.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmVehicleMaster.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.LoginForm.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.Properties.Resources.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.csproj.GenerateResource.Cache
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.exe.licenses
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.exe
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.pdb
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.csprojResolveAssemblyReference.cache
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmStaff.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmStaffNewEdit.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmStaff.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmStaffNewEdit.resources
+C:\Users\vinod\OneDrive\Documents\jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmDashboard.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmDashboard.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.csprojResolveAssemblyReference.cache
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmSetting.resources
+C:\Users\vinodkumar\Documents\thasles jayan\OperationPro\OperationPro\obj\Debug\OperationPro.FrmVehiclwList.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\OperationPro.exe.config
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.exe
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.pdb
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\OperationPro.exe
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\OperationPro.pdb
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\EntityFramework.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\EntityFramework.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.csprojResolveAssemblyReference.cache
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMain.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmCurdMaster.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmDashboard.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmMasters.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmSetting.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmStaff.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmStaffNewEdit.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmVehicleMaster.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.FrmVehiclwList.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.LoginForm.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.Properties.Resources.resources
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.csproj.GenerateResource.Cache
+C:\Users\vinodkumar\source\repos\Vinodkumar-Karapurath\OperationPro\OperationPro\obj\Debug\OperationPro.exe.licenses
